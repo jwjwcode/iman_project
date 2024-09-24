@@ -1,0 +1,8 @@
+rasterio
+numpy
+opencv-python
+pandas
+scipy
+matplotlib
+sklearn
+pytorch
